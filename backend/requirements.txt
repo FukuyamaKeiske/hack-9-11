@@ -5,4 +5,4 @@ pydantic
 bcrypt
 python-jose
 httpx
-python-multipart
+fastapi-admin
